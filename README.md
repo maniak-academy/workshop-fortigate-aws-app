@@ -1,1 +1,1 @@
-# workshop-fortigate-aws-app
+# gitops-terraform-fortigate-app
